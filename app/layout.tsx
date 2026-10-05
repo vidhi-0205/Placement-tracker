@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Placement Tracker",
-  description: "Track your placement applications and progress.",
+  title: "SGSITS Placement Tracker",
+  description: "Explore placement outcomes from SGSITS Indore.",
 };
 
 export default function RootLayout({
